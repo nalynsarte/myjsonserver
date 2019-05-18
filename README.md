@@ -1,2 +1,2 @@
 # myjsonserver
-Json Server
+Json Server sample only
